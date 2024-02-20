@@ -26,4 +26,8 @@ def fibonacci():
     return f"Fibonacci Sequence: {fibon}"
 
 
-print(fibonacci())
+if __name__ == "__main__":
+    print(fibonacci())
+
+
+
